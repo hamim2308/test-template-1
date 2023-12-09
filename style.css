@@ -1,0 +1,76 @@
+body {
+    background-image: url("/bg9.jpg");
+    color: rgb(251, 242, 242);
+    background-size: cover;
+}
+
+/* all buttons font size */
+.custom-font-size {
+    font-size: 12px;
+}
+
+/* button margin */
+.btn .fa-solid {
+    margin-right: 6px; 
+}
+
+/* button customized */
+.custom-btn {
+    text-decoration: none;
+    color: black;
+}
+
+/* Nav Bar Design */
+.nav {
+    list-style-type: none;
+    text-align: center;
+    margin: 0;
+    padding: 0;
+}
+
+.nav-item {
+    display: inline-block;
+}
+
+.nav-link {
+    display: block;
+    padding: 14px 16px; 
+    color: white; 
+    text-decoration: none; 
+    font-family: Arial, sans-serif; 
+    font-size: 16px; 
+}
+
+.nav-link:hover {
+    background-color: #e73030;
+    color: black;
+}
+
+.nav-link.active {
+
+    color: rgb(240, 240, 11);
+}
+
+
+/* bv5 link design */
+ .link {
+    text-decoration: none;
+    color: aliceblue;
+    font-weight: bold;
+    
+} 
+
+/* paragraph design */
+.para {
+    font-size: 13px; 
+    line-height: 0.7cm;
+    text-align: justify;
+    /* font-weight: bolder; */
+
+}
+
+
+
+
+
+
